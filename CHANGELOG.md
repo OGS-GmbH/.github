@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/OGS-GmbH/.github/compare/v1.0.0...v1.1.0) (2026-01-13)
+
+
+### Features
+
+* **favico:** add ([8ba3b2c](https://github.com/OGS-GmbH/.github/commit/8ba3b2c6e928079519c6524c68502d84bc4cafe7))
+
 ## 1.0.0 (2026-01-12)
 
 
