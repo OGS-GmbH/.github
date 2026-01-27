@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/OGS-GmbH/.github/compare/v1.1.0...v1.2.0) (2026-01-27)
+
+
+### Features
+
+* **settings:** add protection rules ([19d07e5](https://github.com/OGS-GmbH/.github/commit/19d07e5291296e82b71f48348c05b20f1ef51c07))
+
 ## [1.1.0](https://github.com/OGS-GmbH/.github/compare/v1.0.0...v1.1.0) (2026-01-13)
 
 
